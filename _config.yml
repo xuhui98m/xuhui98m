@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xuhui Zhang"
   avatar           : "profile.png"
-  bio              : "PhD student in Operations Research at Stanford University"
+  bio              : "PhD student, Operations Research, Stanford University"
   location         : "Stanford, California"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "xuhui98m"
+  github           : #"xuhui98m"
   google_plus      :
   keybase          :
   instagram        :
