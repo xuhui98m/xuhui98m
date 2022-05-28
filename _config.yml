@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Xuhui Zhang"
   avatar           : "profile.png"
-  bio              : "PhD student, Operations Research, Stanford University"
+  bio              : "PhD candidate, Operations Research, Stanford University"
   location         : "Stanford, California"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=WLF5LJMAAAAJ&hl=en"
-  email            :
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/xuhui-zhang-44843815a/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
