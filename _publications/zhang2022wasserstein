@@ -1,0 +1,11 @@
+---
+title: "Wasserstein Distributionally Robust Gaussian Process Regression and Linear Inverse Problems"
+collection: publications
+permalink: /publication/zhang2022wasserstein
+date: 2022-06-08 01:00:00 +0500
+#venue: 'American Control Conference (<b><i>Submitted for Review</i></b>)'
+paperurl: 'https://arxiv.org/abs/2205.13111'
+pubtype: 'preprint'
+authors: 'Xuhui Zhang, Jose Blanchet, Youssef Marzouk, Viet Anh Nguyen, Sven Wang'
+excerpt_separator: ""
+---
