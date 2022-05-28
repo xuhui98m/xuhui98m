@@ -47,7 +47,7 @@ author_profile: true
 <em> International Conference on Artificial Intelligence and Statistics (AISTATS 2022). </em></small><br>
  
 2. [Distributionally Robust Parametric Maximum Likelihood Estimation](
-http://proceedings.mlr.press/v119/si20a.html
+https://proceedings.neurips.cc/paper/2020/file/5a29503a4909fcade36b1823e7cebcf5-Paper.pdf
 )<br>
 <small>Viet Anh Nguyen, **Xuhui Zhang**, Jose Blanchet, Angelos Georghiou<br>
 <em> Advances in Neural Information Processing Systems (Neurips 2020). </em></small><br>
