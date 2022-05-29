@@ -4,7 +4,7 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
-# Preprint
+# Preprints
 ------------
 1. [Wasserstein Distributionally Robust Gaussian Process Regression and Linear Inverse Problems](
     https://arxiv.org/pdf/2205.13111.pdf
