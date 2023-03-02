@@ -6,7 +6,7 @@ author_profile: true
 ---
 # Preprints
 ------------
-1. [Wasserstein Distributionally Robust Gaussian Process Regression and Linear Inverse Problems](
+1. [Distributionally Robust Gaussian Process Regression and Bayesian Inverse Problems](
     https://arxiv.org/pdf/2205.13111.pdf
 )<br>
 <small>**Xuhui Zhang**, Jose Blanchet, Youssef Marzouk, Viet Anh Nguyen, Sven Wang<br>
@@ -26,15 +26,19 @@ author_profile: true
 
 # Journal Publications
 ------------
-1. [Enhanced Balancing of Bias-Variance Tradeoff in Stochastic Estimation: A Minimax Perspective](
-    https://arxiv.org/pdf/1902.04673.pdf)<br>
+1. [Detection and reduction of systematic bias in high-throughput rupture experiments](
+    https://www.sciencedirect.com/science/article/pii/S0022509623000534)<br>
+<small>Hou Wu, **Xuhui Zhang**, Yifan Zhou, Jose Blanchet, Zhigang Suo, Tongqing Lu<br>
+<em>Journal of the Mechanics and Physics of Solids, 2023/em><br>
+2. [Enhanced Balancing of Bias-Variance Tradeoff in Stochastic Estimation: A Minimax Perspective](
+    https://pubsonline.informs.org/doi/pdf/10.1287/opre.2022.2319)<br>
 <small>Henry Lam, Xinyu Zhang, **Xuhui Zhang**<br>
-<em>To appear in Operations Research, 2022+</em><br>
-2. [High-throughput experiments for rare-event rupture of materials](
+<em>Operations Research, 2022</em><br>
+3. [High-throughput experiments for rare-event rupture of materials](
     https://www.sciencedirect.com/science/article/pii/S2590238521006755)<br>
 <small>Yifan Zhou, **Xuhui Zhang**, Meng Yang, Yudong Pan, Zhenjiang Du, Jose Blanchet, Zhigang Suo, Tongqing Lu<br>
 <em>Matter, 2022</em></small>
-3. [Minimax efficient finite-difference stochastic gradient estimators using black-box function evaluations]( https://www.sciencedirect.com/science/article/pii/S0167637720301620)<br>
+4. [Minimax efficient finite-difference stochastic gradient estimators using black-box function evaluations]( https://www.sciencedirect.com/science/article/pii/S0167637720301620)<br>
 <small>Henry Lam, Haidong Li, **Xuhui Zhang**<br>
 <em>Operations Research Letters, 2021</em></small>
 
