@@ -29,7 +29,7 @@ author_profile: true
 1. [Detection and reduction of systematic bias in high-throughput rupture experiments](
     https://www.sciencedirect.com/science/article/pii/S0022509623000534)<br>
 <small>Hou Wu, **Xuhui Zhang**, Yifan Zhou, Jose Blanchet, Zhigang Suo, Tongqing Lu<br>
-<em>Journal of the Mechanics and Physics of Solids, 2023/em><br>
+<em>Journal of the Mechanics and Physics of Solids, 2023</em><br>
 2. [Enhanced Balancing of Bias-Variance Tradeoff in Stochastic Estimation: A Minimax Perspective](
     https://pubsonline.informs.org/doi/pdf/10.1287/opre.2022.2319)<br>
 <small>Henry Lam, Xinyu Zhang, **Xuhui Zhang**<br>
