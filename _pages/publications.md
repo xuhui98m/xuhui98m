@@ -14,31 +14,29 @@ author_profile: true
     https://arxiv.org/pdf/2202.00871.pdf
 )<br>
 <small>Jose Blanchet, Fernando Hernandez, Viet Anh Nguyen, Markus Pelger, **Xuhui Zhang**<br>
-3. [Time-Series Imputation with Wasserstein Interpolation for Optimal Look-Ahead-Bias and Variance Tradeoff](
-    https://arxiv.org/pdf/2102.12736.pdf
-)<br>
-<small>Jose Blanchet, Fernando Hernandez, Viet Anh Nguyen, Markus Pelger, **Xuhui Zhang**<br>
-4. [Dropout Training is Distributionally Robust Optimal](
-    https://arxiv.org/pdf/2009.06111.pdf
-)<br>
-<small>Jose Blanchet, Yang Kang, Jose Luis Montiel Olea, Viet Anh Nguyen, **Xuhui Zhang**<br>
+
 
 
 # Journal Publications
 ------------
-1. [Detection and reduction of systematic bias in high-throughput rupture experiments](
+1. [Dropout Training is Distributionally Robust Optimal](
+    https://arxiv.org/pdf/2009.06111.pdf
+)<br>
+<small>Jose Blanchet, Yang Kang, Jose Luis Montiel Olea, Viet Anh Nguyen, **Xuhui Zhang**<br>
+<em>Accepted in The Journal of Machine Learning Research (JMLR), 2023</em><br>
+2. [Detection and reduction of systematic bias in high-throughput rupture experiments](
     https://www.sciencedirect.com/science/article/pii/S0022509623000534)<br>
 <small>Hou Wu, **Xuhui Zhang**, Yifan Zhou, Jose Blanchet, Zhigang Suo, Tongqing Lu<br>
 <em>Journal of the Mechanics and Physics of Solids, 2023</em><br>
-2. [Enhanced Balancing of Bias-Variance Tradeoff in Stochastic Estimation: A Minimax Perspective](
+3. [Enhanced Balancing of Bias-Variance Tradeoff in Stochastic Estimation: A Minimax Perspective](
     https://pubsonline.informs.org/doi/pdf/10.1287/opre.2022.2319)<br>
 <small>Henry Lam, Xinyu Zhang, **Xuhui Zhang**<br>
 <em>Operations Research, 2022</em><br>
-3. [High-throughput experiments for rare-event rupture of materials](
+4. [High-throughput experiments for rare-event rupture of materials](
     https://www.sciencedirect.com/science/article/pii/S2590238521006755)<br>
 <small>Yifan Zhou, **Xuhui Zhang**, Meng Yang, Yudong Pan, Zhenjiang Du, Jose Blanchet, Zhigang Suo, Tongqing Lu<br>
 <em>Matter, 2022</em></small>
-4. [Minimax efficient finite-difference stochastic gradient estimators using black-box function evaluations]( https://www.sciencedirect.com/science/article/pii/S0167637720301620)<br>
+5. [Minimax efficient finite-difference stochastic gradient estimators using black-box function evaluations]( https://www.sciencedirect.com/science/article/pii/S0167637720301620)<br>
 <small>Henry Lam, Haidong Li, **Xuhui Zhang**<br>
 <em>Operations Research Letters, 2021</em></small>
 
